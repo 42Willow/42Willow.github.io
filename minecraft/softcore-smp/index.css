@@ -4,6 +4,10 @@ body {
   font-family: sans-serif;
 }
 
+a {
+  color: lightblue;
+}
+
 .title {
   margin-left: 100px;
 }
